@@ -1,0 +1,7 @@
+- Be sure to put the code and the 2 .ppm files in the same folder
+- Complie the .C program
+- Run the executable program obtained
+- Use both the mouse and the shell in the program!
+
+
+mail: pietro.longhi@gmail.com
